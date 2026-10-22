@@ -48,14 +48,14 @@
     "marked": "^18.0.14",
     "pinia": "^4.0.3",
     "pinia-plugin-persistedstate": "^4.7.1",
-    "qs": "^6.16.0",
+    "qs": "^6.16.1",
     "valibot": "^1.5.0",
     "validator": "^13.15.35",
-    "vue": "^3.5.43",
+    "vue": "^3.5.44",
     "vue-clamp": "^1.7.2",
     "vue-draggable-plus": "^0.6.1",
     "vue-intl": "^8.1.2",
-    "vuetify": "^4.2.2"
+    "vuetify": "^4.3.0"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^5.3.1",
@@ -105,7 +105,7 @@
     "unplugin-auto-import": "^21.1.0",
     "unplugin-fonts": "^2.0.0",
     "unplugin-vue-components": "^32.1.0",
-    "vite": "^8.3.1",
+    "vite": "^8.3.5",
     "vite-plugin-dir2json": "^1.3.0",
     "vite-plugin-vue-layouts-next": "^2.1.0",
     "vite-plugin-vuetify": "^2.1.3",
